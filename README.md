@@ -18,7 +18,7 @@ To get started in APCS you'll need to set up a few tools and get comfortable wit
 5. Prepare yourself to watch the full Shiffman playlist "Git and Github for Poets" by clicking the image below, and do these things while you're watching:
 
    * During each video, follow along in your own github account. Meaning: make your own poem (different from Shiffman's) and do what he does. Pause the video when you have to. If you get stuck, get help before you move on. 
-   * At the end of each video, add to your cheatsheet notes any commands or buttons that you think will be useful to remember in the future.
+   * At the end of each video, add to your cheatsheet notes any commands or buttons that you think will be useful to remember in the future. Be sure to include at least ___ ___ ___ ___ .
    * You don't have to do anything during the last video in the series (9.10 Github Page for Hosting p5.js Sketches). However this is still a helpful video to watch because in future assignments you will do some similar things.
 
    [![Git and Github for Poets](http://img.youtube.com/vi/BCQHnlnPusY/0.jpg)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
