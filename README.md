@@ -27,7 +27,7 @@ To get started in APCS you'll need to set up a few tools and get comfortable wit
 
 7. ___ ___ Set up your git-config. ___ ___
 
-8. ___ ___ Read our class workflow. ___ ___
+8. ___ ___ Read our class workflow. profile. ___ ___
 
 9. ___ ___ Github classroom ___ ___
 
