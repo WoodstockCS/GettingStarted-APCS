@@ -25,9 +25,14 @@ To get started in APCS you'll need to set up a few tools and get comfortable wit
 
 6. Compare your cheatsheet notes with your partner's. Get a new sheet of blank paper, and together with your partner consolidate your notes into one cheatsheet. Title it as "gh-cheatsheet" and make sure it looks clean and organized.
 
+7. ___ ___ Set up your git-config. ___ ___
+
+8. ___ ___ Read our class workflow. ___ ___
+
 ### Processing
-
+___ ___ . ___ ___
 ### CodingBat
-
+___ ___ . ___ ___
 ### Codecademy
+___ ___ . ___ ___
 'Learn Java'
