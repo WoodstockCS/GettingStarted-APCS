@@ -29,6 +29,8 @@ To get started in APCS you'll need to set up a few tools and get comfortable wit
 
 8. ___ ___ Read our class workflow. ___ ___
 
+9. ___ ___ Github classroom ___ ___
+
 ### Processing
 ___ ___ . ___ ___
 ### CodingBat
