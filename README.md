@@ -1,4 +1,4 @@
-# Getting Started in APCS
+# Getting Started with Coding Assignments
 
 To get started in APCS you'll need to set up a few tools and get comfortable with them.
 
@@ -24,3 +24,10 @@ To get started in APCS you'll need to set up a few tools and get comfortable wit
    [![Git and Github for Poets](http://img.youtube.com/vi/BCQHnlnPusY/0.jpg)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 6. Compare your cheatsheet notes with your partner's. Get a new sheet of blank paper, and together with your partner consolidate your notes into one cheatsheet. Title it as "gh-cheatsheet" and make sure it looks clean and organized.
+
+### Processing
+
+### CodingBat
+
+### Codecademy
+'Learn Java'
