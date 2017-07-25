@@ -31,6 +31,9 @@ To get started in APCS you'll need to set up a few tools and get comfortable wit
 
 9. ___ ___ Github classroom ___ ___
 
+10. ___ ___ review CLI ___ ___
+https://github.com/APCSLowell/CommandLine
+
 ### Processing
 ___ ___ . ___ ___
 ### CodingBat
